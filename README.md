@@ -14,8 +14,8 @@ This tool is particularly valuable for sales and tech teams, especially in scena
 
 The following updates are planned:
 
-1. **Enhanced Visual Appeal**: We're working on revamping the site's design to provide a more engaging and visually pleasing experience.
-2. **Multi-Line Text Parsing**: We're focused on refining the parsing of multi-line text messages for more accurate and comprehensive results.
+1. **Enhanced Visual Appeal**: Revamping the site's design to provide a more engaging experience.
+2. **Multi-Line Text Parsing**: Refining the parsing of multi-line text messages for more accurate and comprehensive results.
 
 ## How to Export WhatsApp Chats
 
